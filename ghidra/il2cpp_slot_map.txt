@@ -1,0 +1,16 @@
+=== il2cpp slot -> export name (from FUN_1802223e0) ===
+DAT_180607aa8  =  il2cpp_class_get_fields
+DAT_180607a88  =  il2cpp_field_get_name
+DAT_180607a90  =  il2cpp_field_get_type
+DAT_180607aa0  =  il2cpp_field_get_flags
+DAT_180607ad8  =  il2cpp_field_static_get_value
+DAT_180607a78  =  il2cpp_type_get_type
+DAT_180607a68  =  il2cpp_array_length
+DAT_180607ac8  =  il2cpp_object_get_class
+DAT_180607a80  =  il2cpp_class_get_name
+DAT_180607ab0  =  il2cpp_class_get_parent
+DAT_180607a98  =  il2cpp_class_from_type
+DAT_180607a70  =  il2cpp_class_is_enum
+DAT_180607ad0  =  il2cpp_class_is_valuetype
+DAT_180607ab8  =  il2cpp_class_value_si
+DAT_180607ae0  =  il2cpp_class_get_element_class

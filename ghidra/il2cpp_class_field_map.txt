@@ -1,0 +1,241 @@
+=== il2cpp fnptr slots (GetProcAddress name -> store slot) ===
+GetProcAddress syms: [EXTERNAL:00000062]
+
+=== game class/field name string references (by function) ===
+
+[FUN_18000d7c0]
+   "card_idevosscenario_idstruct SkillEvoRef with 3 "
+
+[FUN_180033810]
+   "<PlayerTeamMemberArray>k__BackingField<charaName"
+   "<RaceHorse>k__BackingField<PlayerTeamMemberArray"
+   "<RaceType>k__BackingField"
+   "<SimDataBase64>k__BackingField<RaceType>k__Backi"
+   "<charaName>k__BackingFieldraceFinishTimeRawFinis"
+
+[FUN_180087d70]
+   "SkillsSkills from Events"
+   "TurfSurfaceMediumStrategySkillsSkills from Event"
+
+[FUN_1800cd910]
+   "boot: overlay FAILEDboot: overlay installed "
+
+[FUN_1800d57a0]
+   "CareerTeam TrialsSystem"
+   "PerformanceCareerTeam TrialsSystem"
+   "SkipsSpeedPerformanceCareerTeam TrialsSystem"
+   "SpeedPerformanceCareerTeam TrialsSystem"
+
+[FUN_1800da710]
+   "Open the Select Opponent screen to hunt.Start hu"
+   "Start huntviewer ID (optional)##hvsrc\features\t"
+   "viewer ID (optional)##hvsrc\features\team_trials"
+
+[FUN_1800f60d0]
+   "SteamInputBlockManager.PlayClose"
+   "TerminateTitleVoiceSteamInputBlockManager.PlayCl"
+
+[FUN_180120260]
+   "heaven-racesheaven2-race-exportTeam trialsChampi"
+
+[FUN_180130070]
+   "distance_typemember_idtrained_chara_idrunning_st"
+   "member_idtrained_chara_idrunning_stylestruct Slo"
+   "trained_chara_idrunning_stylestruct Slot with 4 "
+
+[FUN_180141470]
+   "skip:train:doneskip:event:loop-armedskips.rivals"
+   "skip:trainskip:train:doneskip:event:loop-armedsk"
+
+[FUN_180148050]
+   "o.f.choice_array"
+   "o.f.event_contents_infoo.f.choice_array"
+   "o.f.event_id"
+
+[FUN_180148840]
+   "chara_effect_id_arrayo.f.choice_reward_array"
+   "choice_arraychara_infocommitchoicesrewardsSPDSTA"
+   "choice_reward_arraychoice_arraychara_infocommitc"
+   "o.f.choice_array"
+   "o.f.choice_reward_array"
+   "o.f.event_contents_infoo.f.choice_array"
+   "o.f.event_id"
+   "oracle:feedskill_pointeventsheaven2-events.key"
+
+[FUN_18014b590]
+   "chara_infocommitchoicesrewardsSPDSTAPWRGUTWIZSKP"
+   "skill_pointeventsheaven2-events.key"
+
+[FUN_18014b910]
+   "eventsheaven2-events.key"
+   "heaven2-events.key"
+
+[FUN_18014d920]
+   "Bad conditionoracle.capturechoice_reward_arraych"
+   "Good conditionBad conditionoracle.capturechoice_"
+
+[FUN_18015b030]
+   "currentCryptoKeyil2cpp_class_get_fieldsil2cpp_fi"
+
+[FUN_180160040]
+   "##rating_listAPPLY OPTIMALthen press Confirm in-"
+   "CURRENT RATINGsrc\features\rating\screen.rs"
+   "Press Apply optimal, or pick skills in-game.rati"
+   "Skill optimizerCURRENT RATINGsrc\features\rating"
+   "Skill points spent##rating_listAPPLY OPTIMALthen"
+   "Team TrialsSystem"
+   "rating.customcustompriority.showCustom Priority#"
+   "rating.hidden"
+   "rating.moderating.customcustompriority.showCusto"
+   "src\features\rating\screen.rs"
+
+[FUN_180166d00]
+   "rating.custom_profile"
+
+[FUN_180168380]
+   "rating.moderating.customcustompriority.showCusto"
+
+[FUN_180169710]
+   "Bought first, in this order; leftover SP goes to"
+   "rating.custom_fillrating.custom_tt"
+   "rating.custom_profile"
+   "rating.custom_tier_baserating.custom_fillrating."
+   "rating.custom_tt"
+
+[FUN_180178300]
+   "rating.custom_fillrating.custom_tt"
+   "rating.custom_tier_baserating.custom_fillrating."
+   "rating.custom_tt"
+   "rating.moderating.customcustompriority.showCusto"
+
+[FUN_1801841a0]
+   ")/images/umamusume/characters/chara_stand_"
+   "AptitudesTurfSurfaceMediumStrategySkillsSkills f"
+   "Loading objectives, profile & events"
+   "MediumStrategySkillsSkills from Events"
+   "Skills from Events"
+   "SkillsSkills from Events"
+   "StrategySkillsSkills from Events"
+   "SurfaceMediumStrategySkillsSkills from Events"
+   "TurfSurfaceMediumStrategySkillsSkills from Event"
+
+[FUN_180189eb0]
+   ")/images/umamusume/characters/chara_stand_"
+   "CodexSkill zone viewer_hashes.jsongametora.com/d"
+   "Skill zone viewer_hashes.jsongametora.com/data/m"
+
+[FUN_18018e260]
+   ")/images/umamusume/characters/chara_stand_"
+
+[FUN_18018f0f0]
+   "All Stats DownChange LaneUse Random Rare SkillsD"
+   "All Stats UpAll Stats DownChange LaneUse Random "
+   "Change LaneUse Random Rare SkillsDebuff Immunity"
+   "CharactersSupports (hint)Supports (event)Scenari"
+   "Evolves intoCharactersSupports (hint)Supports (e"
+   "Supports (event)Scenarios"
+   "Supports (hint)Supports (event)Scenarios"
+   "Use Random Rare SkillsDebuff ImmunityZenkai Spur"
+
+[FUN_180197780]
+   "TurfSurfaceMediumStrategySkillsSkills from Event"
+
+[FUN_1801a0560]
+   "    Skill Hints"
+   "Loading training events"
+   "Skill Hints"
+   "Skills from Events"
+   "Stat Gain    Skill Hints"
+   "Unique EffectStat Gain    Skill Hints"
+
+[FUN_1801a9220]
+   "/data/manifests/umamusume.jsonskillssupport-card"
+   "char_nametitle_enobtainedeffectshintsevent_skill"
+   "character-cardscharactersstatic/skill_conditions"
+   "charactersstatic/skill_conditionsstatic/skill_ef"
+   "descexampleexample_meaningnotevaluesstruct Skill"
+   "skillssupport-cardscharacter-cardscharactersstat"
+   "support-cardscharacter-cardscharactersstatic/ski"
+   "support_idchar_nametitle_enobtainedeffectshintse"
+   "typetidstruct Skill with 21 elements"
+
+[FUN_1801d5f20]
+   "All statsBondSkill ptsMotivationEnergy"
+   "BondSkill ptsMotivationEnergy"
+   "FansRace bonusMax statSkill hintStatusAll statsB"
+   "Max statSkill hintStatusAll statsBondSkill ptsMo"
+   "Race bonusMax statSkill hintStatusAll statsBondS"
+   "Skill"
+   "Skill hintStatusAll statsBondSkill ptsMotivation"
+   "Skill ptsMotivationEnergy"
+   "SpeedPerformanceCareerTeam TrialsSystem"
+   "StatusAll statsBondSkill ptsMotivationEnergy"
+   "eneventDataortvFansRace bonusMax statSkill hintS"
+   "eventDataortvFansRace bonusMax statSkill hintSta"
+   "ortvFansRace bonusMax statSkill hintStatusAll st"
+   "rtvFansRace bonusMax statSkill hintStatusAll sta"
+   "tvFansRace bonusMax statSkill hintStatusAll stat"
+   "vFansRace bonusMax statSkill hintStatusAll stats"
+
+[FUN_1801d7650]
+   "/umamusume/characters/100702-gold-ship"buildId":"
+
+[FUN_180201000]
+   "newoldstruct SkillEvo with 2 elements"
+   "oldstruct SkillEvo with 2 elements"
+
+[FUN_1802021e0]
+   "card_idevosscenario_idstruct SkillEvoRef with 3 "
+   "evosscenario_idstruct SkillEvoRef with 3 element"
+   "scenario_idstruct SkillEvoRef with 3 elements"
+
+[FUN_180204ae0]
+   "typetidstruct Skill with 21 elements"
+   "valuemax_procsvalue_scalestruct SkillEffect with"
+
+[FUN_1802060b0]
+   "hint_othersstruct Slotdistance_typemember_idtrai"
+
+[FUN_18020b3b0]
+   "effectshintsevent_skillsuniquerelease_enstruct S"
+
+[FUN_18020d940]
+   "distance_typemember_idtrained_chara_idrunning_st"
+   "member_idtrained_chara_idrunning_stylestruct Slo"
+   "trained_chara_idrunning_stylestruct Slot with 4 "
+
+[FUN_1802223b0]
+   "race_export.enabled<RaceHorse>k__BackingField<Pl"
+
+[FUN_1802223e0]
+   "3dRaceInfo.SetupSimulateDatasim"
+   "RaceInfo.SetAndDeserializeBase643dRaceInfo.Setup"
+   "RaceInfo.SetupSimulateDatasim"
+   "RaceInfo.get_RaceTrackIdtrackidRaceInfo.SetAndDe"
+   "race_export.enabled<RaceHorse>k__BackingField<Pl"
+   "trackidRaceInfo.SetAndDeserializeBase643dRaceInf"
+
+[FUN_1802561d0]
+   "MH_CreateHookevent vendor\hudhook-0.6.5\src\mh.r"
+
+[FUN_180258550]
+   "MH_QueueEnableHookMH_CreateHookevent vendor\hudh"
+
+[FUN_1802dafc0]
+   "ESCAPE expression must be a single character"
+
+[FUN_1803679d0]
+   "%r ORDER BY term does not match any column in th"
+
+[FUN_18036d020]
+   "too many columns in result set"
+
+[FUN_180419b20]
+   "[nav] NavMoveRequest: result NavID 0x%08X in Lay"
+
+[FUN_180444ff0]
+   "race_export.enabled<RaceHorse>k__BackingField<Pl"
+   "race_result.enabled"
+
+[FUN_18044c790]
+   "WakeByAddressSingle"
